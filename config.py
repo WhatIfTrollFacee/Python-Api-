@@ -1,2 +1,2 @@
 class Config:
-    author = "Miftah"
+    author = "Galih"
